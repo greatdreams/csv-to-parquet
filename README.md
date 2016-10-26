@@ -2,7 +2,7 @@
 
 * Get the project files
 ```bash
-$ git clone https://github.com/greatdreams/simple-java-application-template.git
+$ git clone https://github.com/greatdreams/csv-to-parquet.git
 ```
 * build the project
 ```bash
